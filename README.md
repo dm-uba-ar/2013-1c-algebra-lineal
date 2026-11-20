@@ -1,9 +1,5 @@
 # Álgebra Lineal — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** Ariel Pacetti
-
 ## Prácticas
 
 - [Práctica 1](AL-Practica1-1r13.pdf)
